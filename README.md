@@ -9,7 +9,7 @@
 
 <div align="center"> 
   
-  🔭 I’m currently **Studying** Computer Science 
+  🔭 I’m currently Studying **Computer Science** 
   
   🌱 I’m currently learning **Power BI, Scikit-learn, Selenium, Web Automation and Web Development** 
   
